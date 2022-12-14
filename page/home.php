@@ -10,6 +10,7 @@
                             <a href="?page=future" class="btn btn-danger my-2">Future Value</a>
                             <a href="?page=present" class="btn btn-danger my-2">Present Value</a>
                             <a href="?page=anuitas" class="btn btn-danger my-2">Anuitas</a>
+                            <a onclick="alert('coming-soon')" class="btn btn-danger my-2">Konversi Satuan Waktu</a>
                         </div>
                     </div>
                 </div>
